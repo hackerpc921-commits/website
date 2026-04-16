@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlalchemy
-pydantic
-requests
-dnspython
-python-multipart
-httpx
-aiofiles
